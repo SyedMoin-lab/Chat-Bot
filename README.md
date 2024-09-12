@@ -16,7 +16,7 @@ This project is a simple React application built with [React Flow](https://react
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/sidx8/Chatbot-flow-builder.git
+git clone 
 ```
 
 Navigate into the project directory:
